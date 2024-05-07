@@ -1,0 +1,8 @@
+,City,AQI_2018,AQI_2019,AQI_2020,pct_decrease,Lat,Long,country,iso2,State
+0,Ahmedabad,477.0,513.0,122.0,74.0,23.025793,72.587265,India,IN,Gujarat
+1,Delhi,233.0,214.0,126.0,46.0,28.651952,77.231495,India,IN,Delhi
+2,Gurugram,220.0,206.0,127.0,42.0,28.460105,77.026352,India,IN,Haryana
+3,Hyderabad,90.0,93.0,65.0,29.0,17.384052,78.456355,India,IN,Telangana
+4,Bengaluru,84.0,102.0,67.0,21.0,12.977063,77.587106,India,IN,Karnataka
+5,Mumbai,81.0,89.0,65.0,20.0,18.987807,72.836447,India,IN,Maharashtra
+6,Chennai,85.0,100.0,80.0,6.0,13.084622,80.248357,India,IN,Tamil Nadu 
